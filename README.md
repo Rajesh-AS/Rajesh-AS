@@ -1,16 +1,23 @@
-## Hi there 👋
+BSc CS (AI) | ML & AI Enthusiast | Python Developer | Streamlit Projects
+# Hi 👋, I'm Rajesh AS
 
-<!--
-**Rajesh-AS/Rajesh-AS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 BSc Computer Science (AI) Student  
+💡 Passionate about Machine Learning & AI  
+🚀 Building ML projects using Python & Streamlit  
+📊 Interested in Data Science & AI Applications  
 
-Here are some ideas to get you started:
+### 🔧 Skills
+- Python, Java
+- Machine Learning
+- Pandas, NumPy, Scikit-Learn
+- Streamlit, Flask
+- Git & GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📌 Current Focus
+- ML Projects for Resume
+- GitHub Portfolio Building
+- Competitive Coding & Core CS
+
+### 📫 Connect with Me
+- GitHub: https://github.com/Rajesh-AS
+- LinkedIn: (https://www.linkedin.com/in/rajesh-as-8102a7369/)

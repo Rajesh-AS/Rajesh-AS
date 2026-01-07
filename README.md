@@ -21,5 +21,5 @@ I am passionate about building intelligent applications that solve real-world pr
 To grow as an AI Engineer / ML Developer and contribute to impactful data-driven products.
 
 📫 Connect  
-- GitHub: https://github.com/Rajesh-AS  
+- Resume: https://drive.google.com/file/d/1WANzAp4fJ0sFzKw6aU5czDxQ4nz0NvuX/view?usp=sharing 
 - LinkedIn: https://www.linkedin.com/in/rajesh-as-8102a7369/

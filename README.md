@@ -1,23 +1,25 @@
-BSc CS (AI) | ML & AI Enthusiast | Python Developer | Streamlit Projects
-# Hi 👋, I'm Rajesh AS
+Hi 👋 I'm Rajesh AS  
+🎓 BSc Computer Science (Artificial Intelligence) Student  
+🤖 Machine Learning & AI Enthusiast  
+🐍 Python Developer | Streamlit | Flask  
 
-🎓 BSc Computer Science (AI) Student  
-💡 Passionate about Machine Learning & AI  
-🚀 Building ML projects using Python & Streamlit  
-📊 Interested in Data Science & AI Applications  
+I am passionate about building intelligent applications that solve real-world problems using Machine Learning and Data Science. I actively develop end-to-end ML projects — from data preprocessing and model training to deployment using Streamlit and Flask.
 
-### 🔧 Skills
-- Python, Java
-- Machine Learning
-- Pandas, NumPy, Scikit-Learn
-- Streamlit, Flask
-- Git & GitHub
+🔧 Technical Skills  
+- Programming: Python, Java  
+- Machine Learning: Regression, Classification, Clustering  
+- Libraries: NumPy, Pandas, Scikit-learn  
+- Web Apps: Streamlit, Flask  
+- Tools: Git, GitHub  
 
-### 📌 Current Focus
-- ML Projects for Resume
-- GitHub Portfolio Building
-- Competitive Coding & Core CS
+📌 Current Focus  
+- Building industry-ready ML projects  
+- Improving problem-solving and core CS skills  
+- Strengthening GitHub portfolio and open-source contributions  
 
-### 📫 Connect with Me
-- GitHub: https://github.com/Rajesh-AS
-- LinkedIn: (https://www.linkedin.com/in/rajesh-as-8102a7369/)
+🚀 Career Goal  
+To grow as an AI Engineer / ML Developer and contribute to impactful data-driven products.
+
+📫 Connect  
+- GitHub: https://github.com/Rajesh-AS  
+- LinkedIn: https://www.linkedin.com/in/rajesh-as-8102a7369/

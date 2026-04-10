@@ -22,5 +22,5 @@ To grow as an AI Engineer / ML Developer and contribute to impactful data-driven
 
 📫 Connect  
 - Resume: [https://drive.google.com/file/d/1WANzAp4fJ0sFzKw6aU5czDxQ4nz0NvuX/view?usp=sharing ](https://drive.google.com/file/d/1LNze8DBesvSLH3eLt0LTbCmNNZU2rtS4/view)
-- Resume: 
+
 - LinkedIn: https://www.linkedin.com/in/rajesh-as-8102a7369/
